@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Bootstrap 3, from LayoutIt!</title>
-
-    <meta name="description" content="Source code generated using layoutit.com">
-    <meta name="author" content="LayoutIt!">
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-
-  </head>
-  <body>
-
-    <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
 			<nav class="navbar navbar-default" role="navigation">
@@ -62,7 +44,7 @@
 					</ul>
 					<form class="navbar-form navbar-left" role="search">
 						<div class="form-group">
-							<input type="text" class="form-control">
+							<input type="text" class="form-control" />
 						</div> 
 						<button type="submit" class="btn btn-default">
 							Submit
@@ -110,16 +92,10 @@
 			</p>
 		</div>
 		<div class="col-md-4">
-			<img alt="Bootstrap Image Preview" src="http://lorempixel.com/140/140/" class="img-circle">
+			<img alt="Bootstrap Image Preview" src="http://lorempixel.com/140/140/" class="img-circle" />
 		</div>
 		<div class="col-md-4">
-			<img alt="Bootstrap Image Preview" src="http://lorempixel.com/140/140/" class="img-circle">
+			<img alt="Bootstrap Image Preview" src="http://lorempixel.com/140/140/" class="img-circle" />
 		</div>
 	</div>
 </div>
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/scripts.js"></script>
-  </body>
-</html>
