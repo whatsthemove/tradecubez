@@ -1,5 +1,3 @@
-http://blog.getsetbro.com/web-prototyping-with-github-pages.html
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
